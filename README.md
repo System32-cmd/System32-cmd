@@ -11,7 +11,7 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/System32-cmd/System32-cmd?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </p>
 
-<p>🍌 Don't forget to get some Potassium 🍌</p>
+<p></p>
 
 
 ---
